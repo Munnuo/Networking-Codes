@@ -12,14 +12,14 @@ import ssl
 import sys
 import base64
 
-msg = "\r\n Xbox One rules!"
+msg = "\r\n Enter the body of the message here"
 endMsg = "\r\n.\r\n"
 
-username = "cdogh3ro"
-password = "xboxone360"
+username = "enter email username here"
+password = "enter email password here"
 
-sender = "<cdogh3ro@gmail.com>"
-recipient = "<kalyxm@gmail.com>"
+sender = "<enter sender email here>"
+recipient = "<enter recipient email here>"
 
 # Choose a mail server and call its mailserver
 
